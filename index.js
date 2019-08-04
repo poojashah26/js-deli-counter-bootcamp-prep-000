@@ -12,7 +12,6 @@ function nowServing (katzDeliLine) {
    return "Currently serving " + customer + ".";
 }
 
-var currentLine = function 
-function currentLine(line) {
+var currentLine = function (katzDeliLine) {
   
 }
