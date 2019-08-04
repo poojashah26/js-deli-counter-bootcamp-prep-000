@@ -17,5 +17,5 @@ var currentLine = function (katzDeliLine) {
     return "The line is currently empty.";
 }
     var customerAndNumber = [];
-    for var i=0; i<katzDeliLine.length; i++
+    for var i=0; i<katzDeliLine.length; i++)
 }
