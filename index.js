@@ -18,6 +18,6 @@ var currentLine = function (katzDeliLine) {
 }
     var customerAndNumber = [];
     for (var i=0; i<katzDeliLine.length; i++) {
-      return customerAndNumber
+      return customerAndNumber.push()
     }
 }
