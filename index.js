@@ -5,5 +5,5 @@ var takeANumber = function (katzDeli, newCustomer) {
 }
 
 function nowServing(katzDeliLine) {
-  
+  if (katzDeliLine===0);
 }
