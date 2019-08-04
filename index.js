@@ -20,4 +20,5 @@ var currentLine = function (katzDeliLine) {
     for (var i=0; i<katzDeliLine.length; i++) {
       return customerAndNumber.push(i+1 + ". " + katzDeliLine[i])
 }
+return 
 }
